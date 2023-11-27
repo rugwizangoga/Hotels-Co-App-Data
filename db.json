@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "createdAt": "2023-10-23T14:03:54.101Z",
+      "name": "napenda",
+      "email": "meme",
+      "image": "image 8",
+      "password": "$2a$10$lWsKITh3lI/SwcA0RlUWHuVNW0PBC5Ezqy/ByodXMhdao9WRDjnfe",
+      "id": "8"
+    },
+    {
+      "createdAt": "2023-10-22T18:20:24.082Z",
+      "name": "rugwiza",
+      "email": "paci@gmail.com",
+      "image": "image 9",
+      "password": "$2a$10$6pdb4DdRp9/J37lyYwTiBeJFfVX03DD06SoBU4KY8MAOp9pUs1Bju",
+      "id": "9"
+    },
+    {
+      "createdAt": "2023-10-22T23:28:32.665Z",
+      "name": "patrick",
+      "email": "pa@gmail.com",
+      "image": "https://plus.unsplash.com/premium_photo-1690579805323-ce7193c0755d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5Nzg4MzYyMw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+      "password": "$2a$10$Z3nFoORfa/Ty0hDGXgCTo.o4kYjDLsH9YKGUeJVUs0KsBwXHzwgpG",
+      "id": "10"
+    },
+    {
+      "createdAt": "2023-10-23T17:47:13.484Z",
+      "name": "patrick lancaster",
+      "email": "paul@gmail.com",
+      "image": "image 11",
+      "password": "$2a$10$Rhfm14PsSM9LZoYRDw8fLe56JDYdzv.KTF486EJ0W1RxmEYgUKrAW",
+      "id": "11"
+    },
+    {
+      "createdAt": "2023-10-24T02:51:20.669Z",
+      "name": "asdf",
+      "email": "asdf@gm",
+      "image": "image 12",
+      "password": "$2a$10$ERTysNMbgVlLc80A2KQlXOJsxtY4OwOO8tWVpFxYZAaYHt0ZRc7Hu",
+      "id": "12"
+    },
+    {
+      "createdAt": "2023-10-23T15:51:48.866Z",
+      "name": "musa",
+      "email": "musa@gmail.com",
+      "image": "image 13",
+      "password": "$2a$10$TfxbBT/8NrfKICB8cs0wEus9apfvhyz7ikIxK/yyx0fiYZvaC55qS",
+      "id": "13"
+    },
+    {
+      "createdAt": "2023-10-23T13:55:33.880Z",
+      "name": "monday",
+      "email": "monday@gmail.com",
+      "image": "image 14",
+      "password": "$2a$10$hHwxdyRo/8cuD1Vg6FjcT.WvU.rQrBFkVoAXpcA6bWDCRMIyjDwkC",
+      "id": "14"
+    }
+  ],
+  "rooms": [
+    {
+      "createdAt": "2023-10-25T09:51:47.040Z",
+      "title": "title 1",
+      "locationValue": "HR",
+      "userId": 32,
+      "description": "description 1",
+      "price": 27,
+      "roomCount": 46,
+      "imageSrc": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5OTQwMzQ0MQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+      "bathroomCount": 36,
+      "category": "Beach",
+      "guestCount": 67,
+      "id": "1"
+    },
+    {
+      "createdAt": "2023-10-25T20:07:16.242Z",
+      "title": "title 2",
+      "locationValue": "RW",
+      "userId": 43,
+      "description": "description 2",
+      "price": 33,
+      "roomCount": 33,
+      "imageSrc": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5OTQwMzM2NA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+      "bathroomCount": 62,
+      "category": "category 2",
+      "guestCount": 78,
+      "id": "2"
+    },
+    {
+      "createdAt": "2023-10-25T14:54:56.136Z",
+      "title": "title 3",
+      "locationValue": "UG",
+      "userId": 4,
+      "description": "description 3",
+      "price": 5,
+      "roomCount": 34,
+      "imageSrc": "https://images.unsplash.com/photo-1566073771259-6a8506099945?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5OTQwNTAyMQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+      "bathroomCount": 69,
+      "category": "category 3",
+      "guestCount": 41,
+      "id": "3"
+    },
+    {
+      "createdAt": "2023-10-25T18:54:01.301Z",
+      "title": "title 4",
+      "locationValue": "CN",
+      "userId": 5,
+      "description": "description 4",
+      "price": 9,
+      "roomCount": 17,
+      "imageSrc": "https://images.unsplash.com/photo-1570213489059-0aac6626cade?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5OTQyNDA1Nw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+      "bathroomCount": 23,
+      "category": "Windmills",
+      "guestCount": 59,
+      "id": "4"
+    },
+    {
+      "createdAt": "2023-10-25T02:51:21.245Z",
+      "title": "title 5",
+      "locationValue": "US",
+      "userId": 14,
+      "description": "description 5",
+      "price": 29,
+      "roomCount": 85,
+      "imageSrc": "https://images.unsplash.com/photo-1583037189850-1921ae7c6c22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5OTQyNDUyNw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+      "bathroomCount": 41,
+      "category": "Windmills",
+      "guestCount": 98,
+      "id": "5"
+    },
+    {
+      "createdAt": "2023-10-25T01:11:36.910Z",
+      "title": "title 6",
+      "locationValue": "locationValue 6",
+      "userId": 69,
+      "description": "FERGTYUJJH",
+      "price": 71,
+      "roomCount": 82,
+      "imageSrc": "https://picsum.photos/id/3/5000/3333",
+      "bathroomCount": 20,
+      "category": "category 6",
+      "guestCount": 86,
+      "id": "6"
+    },
+    {
+      "createdAt": "2023-11-24T12:20:50.552Z",
+      "title": "title 7",
+      "locationValue": "locationValue 7",
+      "userId": 93,
+      "description": "description 7",
+      "price": 91,
+      "roomCount": 85,
+      "imageSrc": "imageSrc 7",
+      "bathroomCount": 80,
+      "category": "category 7",
+      "guestCount": 10,
+      "id": "o740bkL"
+    }
+  ]
+}
